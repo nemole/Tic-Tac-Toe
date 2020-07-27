@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-My Tictaktoe game
+My Tictactoe game
